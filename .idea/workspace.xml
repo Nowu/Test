@@ -101,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="130" y="0" key="#Project_Structure" timestamp="1593313758939">
